@@ -1,0 +1,30 @@
+﻿<!DOCTYPE html>
+
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <title>AsteroLens</title>
+    <link rel="stylesheet" href="app.css" type="text/css" />
+</head>
+<body>
+	<canvas id="renderCanvas" onclick="launchFullscreen(document.documentElement)"></canvas>
+	<div class="ui-container">
+		<div class="text" id="intro">
+			<p>This project uses virtual reality to show you the Solar system as if your eyes were very far appart around the Sun. You can zoom onto a list of bodies (planets and others), and if you feel adventurous, you can fly around in the solar system.</p>
+			<p>Texture credit: NASA 3D Resources</p>
+			
+			<button class="button" id="ui-cam" onclick="change_camera()">CAMERA - STEREO</button>
+			<button class="button" id="ui-rotate" onclick="rotate()">ROTATE 180deg</button>
+			<button class="button start" id="ui-start" onclick="start()">START</button>
+		</div>
+
+		<div id="body-name" class="title">LOADING...</div>
+	</div>
+
+	<script src="planets.json"></script>
+	<script src="jquery.min.js"></script>
+	<script src="math.js"></script>
+	<script src="babylon.js"></script>
+	<script src="app.js"></script>
+</body>
+</html>
