@@ -1,5 +1,11 @@
 # AsteroLens
 
+## Demo
+
+A demo is available here: (http://louiscarl.github.io/AsteroLens/).
+
+It's way cooler if you have a Google Cardboard and a mobile device, but it works with the computer. If you don't have a Cardboard, you can toggle stereo vision off by pressing 'CAMERA - STEREO'.
+
 ## Parallax
 
 This project was inspired by an effect astronomers use to measure distance for objects far away. If you're in a train and are looking at mountains far away, you probably have noticed that buildings, fields and trees nearby are moving way faster than the mountains. This effect is called parallax, 
