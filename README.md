@@ -10,7 +10,7 @@ This project uses WebGL to render the scene, so a modern browser is required. Wo
 
 This project was inspired by an effect astronomers use to measure distance for objects far away. If you're in a train and are looking at mountains far away, you probably have noticed that buildings, fields and trees nearby are moving way faster than the mountains. This effect is called parallax, 
 
-To measure the distance between us and some of the new stars they discover, astronomers use that effect on a vast scale, and actually use the orbit of the Earth a round the Sun. They take a picture of the star next to other stars of known distance, then wait 6 months until the Earth is on the other side of the Sun. This allows astronomers to use trigonometry to calculate the distance between us and the new star.
+To measure the distance between us and some of the new stars they discover, astronomers use that effect on a vast scale, and actually use the orbit of the Earth around the Sun. They take a picture of the star next to other stars of known distance, then wait 6 months until the Earth is on the other side of the Sun. This allows astronomers to use trigonometry to calculate the distance between us and the new star.
 
 ## The project
 
