@@ -2,7 +2,7 @@
 
 ## Demo
 
-A demo is available here: (http://louiscarl.github.io/AsteroLens/ "AsteroLens").
+[A demo is available here.](http://louiscarl.github.io/AsteroLens/ "AsteroLens")
 
 It's way cooler if you have a Google Cardboard and a mobile device, but it works with the computer. If you don't have a Cardboard, you can toggle stereo vision off by pressing 'CAMERA - STEREO'.
 
